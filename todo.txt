@@ -2,3 +2,4 @@
 2. Package Installation
 3. app.js Configuration
 4. Run the server
+5. User Model Creation
