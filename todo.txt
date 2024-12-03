@@ -3,3 +3,10 @@
 3. app.js Configuration
 4. Run the server
 5. User Model Creation
+6. Task Model Creation
+7. OTP Model Creation
+8. Email Utility
+9. User Controller
+10.
+
+
